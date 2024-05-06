@@ -1,4 +1,4 @@
-##NJ Transit Bus Terminals
+## NJ Transit Bus Terminals
 
 Assignment 8 - Creating Webmap 
 by Prajwal Nagendra
